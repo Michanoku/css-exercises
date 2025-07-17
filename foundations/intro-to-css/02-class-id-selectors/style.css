@@ -1,0 +1,18 @@
+.fairy {
+  background-color: #F38893; 
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.text-medium {
+  font-size: 24px;
+}
+
+#blue {
+  color: #0095D0;
+  font-size: 36px; 
+}
+
+#green {
+  color: #6FD994;
+  font-weight: bold;
+}
