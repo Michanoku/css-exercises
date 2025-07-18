@@ -9,10 +9,13 @@ body {
 
 a {
   text-decoration: none;
+  color: darkslategrey;
 }
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 16px;
 }
 
 img {
