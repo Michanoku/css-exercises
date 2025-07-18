@@ -39,6 +39,20 @@ body {
   justify-content: center;
 }
 
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 18px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
