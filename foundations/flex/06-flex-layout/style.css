@@ -32,6 +32,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -52,5 +53,9 @@ input {
   background-color: lightgrey;
 }
 .content {
-
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-self: center;
+  align-items: center;
 }
