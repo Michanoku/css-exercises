@@ -18,6 +18,15 @@ body {
 
 .content {
   flex-grow: 1;
+  display: flex;
+}
+
+.articles {
+  flex-grow: 1;
+  display: flex;
+  padding: 32px;
+  gap: 16px; 
+  flex-wrap: wrap;
 }
 
 .footer {
@@ -36,4 +45,5 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 300px;
 }
