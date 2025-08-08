@@ -26,11 +26,12 @@ html {
 
 .header {
   background-color: #006157;
-  grid-area: 1 / 1 / 2/ 5;
+  grid-area: 1 / 1 / 2 / 5;
 }
 
 .sidebar {
   background-color: #005B94;
+  grid-area: 2 / 1 / 8 / 2; 
 }
 
 .nav {
