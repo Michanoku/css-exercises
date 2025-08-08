@@ -5,6 +5,10 @@ html {
 }
 
 .container {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: 300px 300px 300px 300px;
+  grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px;
   text-align: center;
   height: 100%;
   padding: 16px;
@@ -22,6 +26,7 @@ html {
 
 .header {
   background-color: #006157;
+  grid-area: 1 / 1 / 2/ 5;
 }
 
 .sidebar {
