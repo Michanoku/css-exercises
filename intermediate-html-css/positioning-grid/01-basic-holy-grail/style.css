@@ -36,6 +36,7 @@ html {
 
 .nav {
   background-color: #642cde;
+  grid-area: 2 / 2 / 3 / 5;
 }
 
 .article {
