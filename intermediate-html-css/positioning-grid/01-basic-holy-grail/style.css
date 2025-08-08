@@ -41,6 +41,7 @@ html {
 
 .article {
   background-color: #7E1DC3;
+  grid-area: 3 / 2 / 8 / 5;
 }
 
 .footer {
